@@ -1,0 +1,26 @@
+build/
+release/
+toolchain/
+bin/
+obj/
+.vs/
+.vscode/
+
+*.exe
+*.pdb
+*.def
+*.rsp
+*.zip
+*.log
+
+# Game files and saves
+*.arc
+*.sav
+*.vdf
+savedata.bin*
+
+# Private keys and settings
+.env
+*.pem
+*.key
+*.pfx
