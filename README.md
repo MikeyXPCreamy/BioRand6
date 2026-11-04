@@ -1,3 +1,5 @@
+<p align="center"><img src="resources/branding.png" alt="BioRand 6" width="480"></p>
+
 # BioRand 6
 
 >**EARLY DEVELOPMENT.** Still being built and tested. There's no release yet, and anything can change.
