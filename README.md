@@ -2,6 +2,9 @@
 
 # BioRand 6
 
+**DISCLAIMER: I AM USING MINIMAL AI ASSISTANCE FOR CERTAIN TASKS MAINLY FILE READING AND GAME DATA INFORMATION.**
+        **THIS IS NOT A VIBE CODED OR AI CODED RANDOMIZER, ALL CODE IS CREATED AND MAINTAINED BY A HUMAN- WHICH IS ME.**
+
 >**EARLY DEVELOPMENT.** Still being built and tested. There's no release yet, and anything can change.
 
 A randomizer for Resident Evil 6 on Steam (PC).
